@@ -43,7 +43,7 @@ dynamic-pricing/
  
 ### 1. Клонировать репозиторий
 ```bash
-git clone https://github.com/YOUR_USERNAME/dynamic-pricing.git
+git clone https://github.com/Ant1freeze452/dynamic-pricing.git
 cd dynamic-pricing
 ```
  
